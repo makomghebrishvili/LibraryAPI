@@ -1,11 +1,6 @@
 ﻿namespace LibraryAPI.Services;
 
 using AutoMapper;
-using global::LibraryAPI.Data;
-using global::LibraryAPI.DTOs.LibraryCards;
-using global::LibraryAPI.Entities;
-using global::LibraryAPI.Exceptions;
-using global::LibraryAPI.Services.Interfaces;
 using LibraryAPI.Data;
 using LibraryAPI.DTOs.LibraryCards;
 using LibraryAPI.Entities;
